@@ -1,8 +1,15 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
+1. What is your name? 
+Sean Dunn
 2. Why are you interested in Data Science?
+The short answer is that I am a nerd and I think this might be my calling. I started my career in IT as a Graphic Artist and a Web Developer. I belive that Big Data is a natural progression of my tallents.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+The first language I learned was Lingo for Director. I moved on to HTML and CSS. Shortly after that I need to deal with databases and learned SQL and PHP. I also have experience with javascript on the web side of things. I have a certification in Java. I have touched Python and R. I am also certified in Linux and am familuar with BASH. I don't code in my current position but I am confident in my ability to learn and draw on past experience.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+This is the area of this program that terrifies me. I took an elementary statistics class prior to applying to the program. My performance was not a failure. My current position does not use any statistics
 5.  Do you have other experience with R or Python?
+When I was judging whether or not I would like this course of study I found a couple free of online courses and tried both languages on for size. I have used a few languages and the same rings true for these. Google->try->fail->repeat
 6.  What do you hope to learn in this class?
+I hope to learn how to code smarter using Python and R. when I say smarter I mean those life changing tips and tricks. for instance, if you are using PHP and you need a dropdown list for the states in the US. the smart move is to build this in a standalone function so you can call it anytime you like. In Java and other OOPs understanding how to use polymorphism and inheritance can save you a lot of lines of code.
 7.  Is there anything else you would like to share with us?
+No nothing at this time.
